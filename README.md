@@ -14,7 +14,7 @@
 ## Installation & Dataset Preparation
 * Install requirements with `python3 -m pip install -r requirements.txt`
 * Datasets CIFAR-10, CIFAR-100, CINIC-10 require no manual downloads
-* For IMDB, parts are already stored in the repository, others are automatically downloaded
+* For IMDB, data is already stored in the repository
 * Files for SHAKESPEARE are already in the repository's data folder
 * For the FEMNIST experiments, it is required to download the inputs and targets from [here](https://drive.google.com/file/d/1ZFPbHddOBIkaNZcyezUuKxSSqwaHDdrE/view?usp=sharing) or [here](https://bwsyncandshare.kit.edu/s/r3R8feQRkBkCx5x/download/femnist_data.zip) and put them into the `data/femnist` folder
 * Data for XCHEST is automatically loaded from [here](https://bwsyncandshare.kit.edu/s/fEwKeDoHKDtnzF7/download/xchest2.tar.gz)
